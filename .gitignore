@@ -1,0 +1,20 @@
+# Environment variables — never commit credentials
+.env
+
+# Raw data files — too large for GitHub, regenerate by running pipeline/00_create_jsonl.ipynb
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/

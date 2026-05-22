@@ -1,0 +1,363 @@
+TEAM_ID,TEAM_NAME,CONFERENCE,WIN_PCT,POINT_DIFF,ROSTER_SIZE,AVG_HEIGHT,AVG_WEIGHT,AVG_YEARS_EXP
+2272,High Point Panthers,Big South Conference,0.8611111,18.4,19,77.210526316,200.368421053,2.842105
+2250,Gonzaga Bulldogs,West Coast Conference,0.8857143,18.1,16,77.8125,208.6875,2.625000
+150,Duke Blue Devils,Atlantic Coast Conference,0.92105263,18,25,79.571428571,219.65,2.333333
+130,Michigan Wolverines,Big Ten Conference,0.925,17.8,16,78.3125,218.75,2.500000
+12,Arizona Wildcats,Big 12 Conference,0.9230769,16.8,16,78.25,206.5625,2.250000
+139,Saint Louis Billikens,Atlantic 10 Conference,0.82857144,16.7,17,77.882352941,199.294117647,2.470588
+66,Iowa State Cyclones,Big 12 Conference,0.7837838,16.4,14,77.428571429,210.428571429,2.642857
+57,Florida Gators,Southeastern Conference,0.7714286,15.6,15,79.266666667,219,2.466667
+248,Houston Cougars,Big 12 Conference,0.8108108,14.6,14,78.5,216.785714286,2.357143
+356,Illinois Fighting Illini,Big Ten Conference,0.7567568,14.4,14,78.571428571,206.071428571,2.357143
+193,Miami (OH) RedHawks,Mid-American Conference,0.9411765,14.1,17,77.235294118,204.411764706,2.352941
+2006,Akron Zips,Mid-American Conference,0.82857144,13.9,16,76.4375,195.625,2.375000
+2377,McNeese Cowboys,Southland Conference,0.8235294,12.9,15,76.533333333,192.933333333,2.466667
+2608,Saint Mary's Gaels,West Coast Conference,0.8181818,12.8,15,78.733333333,216,2.000000
+58,South Florida Bulls,American Conference,0.7352941,11.8,15,77.466666667,195,2.800000
+97,Louisville Cardinals,Atlantic Coast Conference,0.6857143,11.8,16,78.1875,210.625,3.000000
+258,Virginia Cavaliers,Atlantic Coast Conference,0.8333333,11.6,15,78.2,210.666666667,2.333333
+328,Utah State Aggies,Mountain West Conference,0.8055556,11.5,15,78.4,209,2.600000
+202,Tulsa Golden Hurricane,American Conference,0.7894737,11.4,15,77.533333333,204.466666667,2.533333
+41,UConn Huskies,Big East Conference,0.85,11.4,15,78.466666667,211.533333333,2.666667
+2599,St. John's Red Storm,Big East Conference,0.8108108,11.3,15,77.933333333,207.333333333,2.600000
+3084,Utah Valley Wolverines,Western Athletic Conference,0.7352941,11.3,15,78,195.866666667,2.400000
+2509,Purdue Boilermakers,Big Ten Conference,0.7692308,11.1,16,77.8125,211.5625,2.625000
+158,Nebraska Cornhuskers,Big Ten Conference,0.8,10.9,16,78.875,213.375,2.937500
+238,Vanderbilt Commodores,Southeastern Conference,0.75,10.7,18,77.555555556,214.705882353,3.058824
+2057,Belmont Bruins,Missouri Valley Conference,0.8125,10.6,17,77.764705882,203.529411765,2.647059
+127,Michigan State Spartans,Big Ten Conference,0.7714286,10.5,15,77.666666667,211.666666667,2.466667
+43,Yale Bulldogs,Ivy League,0.7741935,10.4,14,77.071428571,203.071428571,2.285714
+2426,Navy Midshipmen,Patriot League,0.7647059,10.3,25,76.64,201.84,2.440000
+167,New Mexico Lobos,Mountain West Conference,0.7027027,10.3,14,78,205.555555556,2.428571
+2390,Miami Hurricanes,Atlantic Coast Conference,0.74285716,10.2,16,78.4375,220.4,2.333333
+2900,St. Thomas-Minnesota Tommies,Summit League,0.7058824,10.2,16,76.6875,201.5625,2.062500
+2449,North Dakota State Bison,Summit League,0.7714286,10.1,14,76.214285714,199.285714286,2.285714
+2541,Santa Clara Broncos,West Coast Conference,0.74285716,10,17,77.882352941,201.176470588,2.352941
+2617,Stephen F. Austin Lumberjacks,Southland Conference,0.8235294,10,15,77.8,200.6,2.600000
+189,Bowling Green Falcons,Mid-American Conference,0.5625,9.7,17,78,199.411764706,2.823529
+61,Georgia Bulldogs,Southeastern Conference,0.6666667,9.6,15,78,207.333333333,2.466667
+8,Arkansas Razorbacks,Southeastern Conference,0.7567568,9.2,15,78.133333333,209.666666667,2.000000
+2633,Tennessee Volunteers,Southeastern Conference,0.6756757,9.2,16,77.375,211.6875,2.312500
+62,Hawai'i Rainbow Warriors,Big West Conference,0.72727275,9.1,13,78.692307692,198.461538462,3.307692
+2670,VCU Rams,Atlantic 10 Conference,0.7777778,9,14,78.428571429,205.357142857,2.642857
+2378,UMBC Retrievers,America East Conference,0.72727275,8.8,15,77.133333333,197.142857143,2.933333
+2275,Hofstra Pride,Coastal Athletic Association,0.6857143,8.8,15,77,199.4,3.000000
+47,Howard Bison,Mid-Eastern Athletic Conference,0.6857143,8.7,16,76.375,194.555555556,2.125000
+300,UC Irvine Anteaters,Big West Conference,0.6571429,8.7,18,77.277777778,196.055555556,2.111111
+333,Alabama Crimson Tide,Southeastern Conference,0.71428573,8.5,17,78.714285714,208.142857143,2.411765
+2046,Austin Peay Governors,ASUN Conference,0.7096774,8.4,13,76.692307692,193.615384615,2.769231
+350,UNC Wilmington Seahawks,Coastal Athletic Association,0.7941176,8.3,15,78.4,203.8,3.000000
+2193,East Tennessee State Buccaneers,Southern Conference,0.6764706,8.3,15,76.4,191,2.400000
+2294,Iowa Hawkeyes,Big Ten Conference,0.6486486,8.2,14,78.428571429,215,2.214286
+153,North Carolina Tar Heels,Atlantic Coast Conference,0.72727275,8.1,16,78.625,210.625,2.312500
+252,BYU Cougars,Big 12 Conference,0.6571429,8.1,17,78.352941176,199.4,2.470588
+2737,Winthrop Eagles,Big South Conference,0.6764706,8.1,15,77.066666667,198,3.400000
+2460,Northern Iowa Panthers,Missouri Valley Conference,0.6388889,7.6,17,77.705882353,210.411764706,2.705882
+2724,Wichita State Shockers,American Conference,0.6666667,7.3,15,77.133333333,200.4,2.600000
+2335,Liberty Flames,Conference USA,0.7647059,7.2,15,77.8,207.666666667,2.533333
+2382,Mercer Bears,Southern Conference,0.59375,7.2,16,77.8125,206,2.562500
+2641,Texas Tech Red Raiders,Big 12 Conference,0.6764706,7.2,14,77.857142857,207.928571429,2.214286
+2534,Sam Houston Bearkats,Conference USA,0.64705884,7.2,15,76.933333333,202,2.266667
+45,George Washington Revolutionaries,Atlantic 10 Conference,0.54285717,7.2,15,77.266666667,205.666666667,3.000000
+21,San Diego State Aztecs,Mountain West Conference,0.6666667,7.2,15,77.866666667,204.466666667,2.466667
+245,Texas A&M Aggies,Southeastern Conference,0.64705884,7.2,15,77.6,206.533333333,3.133333
+228,Clemson Tigers,Atlantic Coast Conference,0.6857143,7.1,13,78.846153846,201.307692308,2.461538
+275,Wisconsin Badgers,Big Ten Conference,0.6857143,6.9,15,78.933333333,210.933333333,2.533333
+152,NC State Wolfpack,Atlantic Coast Conference,0.5882353,6.9,15,78.333333333,222.333333333,2.733333
+2253,Grand Canyon Lopes,Mountain West Conference,0.625,6.9,15,78.733333333,212.666666667,2.400000
+2750,Wright State Raiders,Horizon League,0.6571429,6.8,14,77.5,202.857142857,2.071429
+338,Kennesaw State Owls,Conference USA,0.6,6.8,19,76.947368421,204.684210526,2.315789
+194,Ohio State Buckeyes,Big Ten Conference,0.61764705,6.7,15,78.2,207.333333333,2.533333
+251,Texas Longhorns,Southeastern Conference,0.5833333,6.6,15,78.333333333,215,2.733333
+2630,UT Martin Skyhawks,Ohio Valley Conference,0.6666667,6.6,19,77.526315789,194.473684211,1.947368
+147,Montana State Bobcats,Big Sky Conference,0.5625,6.5,15,78.2,201.666666667,2.466667
+292,UT Rio Grande Valley Vaqueros,Southland Conference,0.57575756,6.4,16,77.0625,202.642857143,3.062500
+2565,SIU Edwardsville Cougars,Ohio Valley Conference,0.59375,6.3,15,77.4,199.666666667,3.000000
+2502,Portland State Vikings,Big Sky Conference,0.6451613,6.3,17,78.058823529,205.294117647,2.882353
+96,Kentucky Wildcats,Southeastern Conference,0.6111111,6.2,16,79,213.75,2.500000
+2110,Central Arkansas Bears,ASUN Conference,0.64705884,6.2,17,76.588235294,200.882352941,2.000000
+2287,Illinois State Redbirds,Missouri Valley Conference,0.6388889,6.2,14,78,208.214285714,2.571429
+2567,SMU Mustangs,Atlantic Coast Conference,0.5882353,6.2,15,78.333333333,206.666666667,2.200000
+2653,Troy Trojans,Sun Belt Conference,0.64705884,6.1,15,76.266666667,201.333333333,2.533333
+26,UCLA Bruins,Big Ten Conference,0.6666667,6,15,77.8,214.333333333,2.866667
+84,Indiana Hoosiers,Big Ten Conference,0.5625,6,17,77.529411765,208.823529412,2.705882
+2458,Northern Colorado Bears,Big Sky Conference,0.625,6,16,77.625,200.833333333,2.500000
+2305,Kansas Jayhawks,Big 12 Conference,0.6857143,6,16,78,203.4375,2.312500
+2026,App State Mountaineers,Sun Belt Conference,0.59375,5.9,16,76.375,198.6875,2.312500
+2368,Marist Red Foxes,Metro Atlantic Athletic Conference,0.61290324,5.9,14,77.357142857,200,2.571429
+222,Villanova Wildcats,Big East Conference,0.72727275,5.9,14,78.5,212,2.428571
+2634,Tennessee State Tigers,Ohio Valley Conference,0.6969697,5.9,16,77.6875,200.75,2.812500
+2032,Arkansas State Red Wolves,Sun Belt Conference,0.625,5.8,16,78.3125,203.533333333,2.250000
+94,Northern Kentucky Norse,Horizon League,0.5882353,5.6,14,76.928571429,193.214285714,2.714286
+231,Furman Paladins,Southern Conference,0.62857145,5.5,15,78.2,199.8,2.266667
+2244,George Mason Patriots,Atlantic 10 Conference,0.6969697,5.5,16,77.8125,201.9375,2.750000
+201,Oklahoma Sooners,Southeastern Conference,0.5675676,5.5,16,77.875,199.8125,2.562500
+2132,Cincinnati Bearcats,Big 12 Conference,0.54545456,5.5,16,77.8125,210,2.500000
+28,UC San Diego Tritons,Big West Conference,0.6764706,5.4,16,77.75,198.125,2.250000
+5,UAB Blazers,American Conference,0.625,5.4,15,76.6,201,2.533333
+2729,William & Mary Tribe,Coastal Athletic Association,0.625,5.4,15,76.866666667,199,3.266667
+2628,TCU Horned Frogs,Big 12 Conference,0.6571429,5.3,16,76.9375,205.9375,2.562500
+2523,Robert Morris Colonials,Horizon League,0.6666667,5.3,16,77.6875,196.9375,2.812500
+239,Baylor Bears,Big 12 Conference,0.5,5.3,16,77.375,202.8125,2.375000
+70,Idaho Vandals,Big Sky Conference,0.5833333,5.1,16,77.25,197.142857143,2.750000
+172,Cornell Big Red,Ivy League,0.53571427,5.1,20,76.9,200.35,2.650000
+2550,Seton Hall Pirates,Big East Conference,0.6363636,5.1,15,77.6,205.666666667,3.066667
+2856,California Baptist Lancers,Western Athletic Conference,0.7352941,5,16,77.375,208.5,2.750000
+25,California Golden Bears,Atlantic Coast Conference,0.64705884,4.9,18,77.444444444,200.833333333,2.611111
+82,UIC Flames,Missouri Valley Conference,0.54285717,4.9,15,77.133333333,204.4,2.466667
+261,Vermont Catamounts,America East Conference,0.64705884,4.9,16,77.4375,196.214285714,2.437500
+2754,Youngstown State Penguins,Horizon League,0.46875,4.9,15,77.066666667,200.333333333,3.000000
+2348,Louisiana Tech Bulldogs,Conference USA,0.5882353,4.9,15,78.333333333,208.333333333,2.666667
+277,West Virginia Mountaineers,Big 12 Conference,0.6,4.9,15,77.733333333,198.6,2.533333
+171,Columbia Lions,Ivy League,0.5714286,4.9,17,77.235294118,201.470588235,2.529412
+357,Texas A&M-Corpus Christi Islanders,Southland Conference,0.54545456,4.8,17,77,198.823529412,3.000000
+2168,Dayton Flyers,Atlantic 10 Conference,0.6756757,4.8,15,77.2,201.066666667,2.533333
+2547,Seattle U Redhawks,West Coast Conference,0.6,4.8,16,77.1875,204.625,2.625000
+2540,UC Santa Barbara Gauchos,Big West Conference,0.5625,4.8,17,78.352941176,207.352941176,2.411765
+2309,Kent State Golden Flashes,Mid-American Conference,0.7058824,4.7,17,76.705882353,207.470588235,2.235294
+68,Boise State Broncos,Mountain West Conference,0.625,4.7,15,78.2,203.533333333,2.533333
+2561,Siena Saints,Metro Atlantic Athletic Conference,0.6571429,4.6,17,76.882352941,201.470588235,2.411765
+36,Colorado State Rams,Mountain West Conference,0.61764705,4.6,14,78.357142857,205.714285714,2.285714
+2440,Nevada Wolf Pack,Mountain West Conference,0.6486486,4.5,14,77.714285714,206.25,2.642857
+2649,Toledo Rockets,Mid-American Conference,0.5588235,4.4,13,77.153846154,198.692307692,2.076923
+2226,Florida Atlantic Owls,American Conference,0.54545456,4.4,15,78.133333333,201.866666667,1.800000
+6,South Alabama Jaguars,Sun Belt Conference,0.6363636,4.3,13,76.384615385,200.769230769,3.000000
+55,Jacksonville State Gamecocks,Conference USA,0.46875,4.3,15,76.8,198.454545455,3.066667
+2230,Fordham Rams,Atlantic 10 Conference,0.53125,4.3,16,77,202.1875,2.812500
+2,Auburn Tigers,Southeastern Conference,0.57894737,4.2,18,77,192.5,2.333333
+2166,Davidson Wildcats,Atlantic 10 Conference,0.5882353,4.1,16,77.6875,202.9375,2.437500
+288,Lipscomb Bisons,ASUN Conference,0.59375,4,16,77,198.25,2.625000
+2546,Southeast Missouri State Redhawks,Ohio Valley Conference,0.6060606,3.9,14,77.714285714,205.357142857,3.000000
+2692,Weber State Wildcats,Big Sky Conference,0.5,3.9,15,76.866666667,200.714285714,2.266667
+2751,Wyoming Cowboys,Mountain West Conference,0.54545456,3.9,15,77.733333333,210.2,2.200000
+279,Pacific Tigers,West Coast Conference,0.54545456,3.9,18,77.5,208.333333333,2.777778
+259,Virginia Tech Hokies,Atlantic Coast Conference,0.59375,3.9,14,78.5,210.285714286,1.928571
+142,Missouri Tigers,Southeastern Conference,0.6060606,3.7,14,79.785714286,216.071428571,2.785714
+2535,Samford Bulldogs,Southern Conference,0.5625,3.6,17,76.588235294,193.823529412,2.411765
+71,Bradley Braves,Missouri Valley Conference,0.61764705,3.6,15,78.133333333,207.333333333,2.333333
+2344,Longwood Lancers,Big South Conference,0.5,3.6,15,77.066666667,201,2.533333
+249,North Texas Mean Green,American Conference,0.57575756,3.5,12,77.333333333,210.888888889,2.833333
+264,Washington Huskies,Big Ten Conference,0.4848485,3.5,16,78.5625,216,2.187500
+79,Southern Illinois Salukis,Missouri Valley Conference,0.5,3.4,14,77.714285714,210,2.500000
+108,Harvard Crimson,Ivy League,0.5862069,3.4,17,77.176470588,201.764705882,2.117647
+2127,Charleston Southern Buccaneers,Big South Conference,0.46875,3.3,16,76.75,195.625,2.812500
+2514,Quinnipiac Bobcats,Metro Atlantic Athletic Conference,0.59375,3.3,15,78.066666667,198.333333333,2.000000
+44,American University Eagles,Patriot League,0.5,3.3,19,77.473684211,198.842105263,2.000000
+250,UT Arlington Mavericks,Western Athletic Conference,0.5625,3.3,14,76.5,199.642857143,2.214286
+98,Western Kentucky Hilltoppers,Conference USA,0.5625,3.2,16,77.4375,203.4375,3.062500
+119,Towson Tigers,Coastal Athletic Association,0.5588235,3.1,15,77.866666667,212,2.800000
+218,Temple Owls,American Conference,0.5,3.1,15,77.533333333,203,2.800000
+276,Marshall Thundering Herd,Sun Belt Conference,0.59375,3.1,15,77.8,197.666666667,2.933333
+166,New Mexico State Aggies,Conference USA,0.5,3.1,15,77.066666667,189.666666667,3.000000
+2184,Duquesne Dukes,Atlantic 10 Conference,0.54545456,3.1,18,77.277777778,209.611111111,2.722222
+24,Stanford Cardinal,Atlantic Coast Conference,0.6060606,3,17,78.176470588,211.176470588,2.294118
+99,LSU Tigers,Southeastern Conference,0.46875,2.9,15,78.133333333,208.466666667,2.666667
+2217,Fairfield Stags,Metro Atlantic Athletic Conference,0.61764705,2.9,19,76.315789474,195,2.526316
+326,Texas State Bobcats,Sun Belt Conference,0.59375,2.9,15,77.333333333,202.466666667,2.733333
+2115,Central Connecticut Blue Devils,Northeast Conference,0.6,2.9,16,77.0625,192.375,2.312500
+93,Murray State Racers,Missouri Valley Conference,0.6060606,2.8,15,77.933333333,204.733333333,2.466667
+2603,Saint Joseph's Hawks,Atlantic 10 Conference,0.6666667,2.8,15,77.733333333,208.333333333,2.133333
+257,Richmond Spiders,Atlantic 10 Conference,0.46875,2.8,16,77.4375,206.4375,2.437500
+149,Montana Grizzlies,Big Sky Conference,0.5294118,2.7,14,77.071428571,202.928571429,2.428571
+2229,Florida International Panthers,Conference USA,0.46875,2.7,16,77.3125,202.5,3.062500
+2515,Radford Highlanders,Big South Conference,0.5,2.6,14,76.928571429,198.888888889,2.500000
+113,Massachusetts Minutemen,Mid-American Conference,0.5151515,2.6,15,77,208.8,2.666667
+2571,South Dakota State Jackrabbits,Summit League,0.4375,2.6,14,77.357142857,209.642857143,2.000000
+2450,Norfolk State Spartans,Mid-Eastern Athletic Conference,0.46875,2.6,15,77.066666667,203.571428571,2.866667
+2393,Middle Tennessee Blue Raiders,Conference USA,0.53125,2.6,15,77.933333333,204,2.933333
+52,Florida State Seminoles,Atlantic Coast Conference,0.54545456,2.5,15,77.4,197.866666667,2.500000
+302,UC Davis Aggies,Big West Conference,0.57575756,2.5,14,77.642857143,199.642857143,2.214286
+2612,Saint Peter's Peacocks,Metro Atlantic Athletic Conference,0.5862069,2.4,14,77.5,198.214285714,3.000000
+2116,UCF Knights,Big 12 Conference,0.6363636,2.3,15,78.6,208.266666667,3.000000
+2351,Loyola Marymount Lions,West Coast Conference,0.46875,2.2,16,77.875,206.875,2.687500
+2385,Mercyhurst Lakers,Northeast Conference,0.5,2,15,76.2,201.2,2.733333
+232,Charleston Cougars,Coastal Athletic Association,0.65625,2,16,77.625,199.5625,2.375000
+2771,Merrimack Warriors,Metro Atlantic Athletic Conference,0.6764706,2,15,76.8,196.333333333,2.466667
+179,St. Bonaventure Bonnies,Atlantic 10 Conference,0.5,1.9,15,77.266666667,201.928571429,2.666667
+2086,Butler Bulldogs,Big East Conference,0.5,1.9,15,78.2,214.666666667,2.466667
+112358,Long Island University Sharks,Northeast Conference,0.6857143,1.9,15,77.733333333,200.333333333,2.933333
+154,Wake Forest Demon Deacons,Atlantic Coast Conference,0.51428574,1.9,16,77.75,203.5625,2.500000
+3101,Utah Tech Trailblazers,Western Athletic Conference,0.5588235,1.9,14,77.642857143,196.428571429,2.714286
+2142,Colgate Raiders,Patriot League,0.54545456,1.8,16,77.8125,205.625,2.250000
+2084,Buffalo Bulls,Mid-American Conference,0.53125,1.8,14,76.928571429,202.5,2.642857
+2405,Monmouth Hawks,Coastal Athletic Association,0.5588235,1.8,16,77.5,195.625,2.500000
+227,Rhode Island Rams,Atlantic 10 Conference,0.5,1.7,17,77.235294118,199.352941176,2.823529
+2747,Wofford Terriers,Southern Conference,0.59375,1.7,15,76.133333333,196.133333333,2.200000
+2582,Southern Jaguars,Southwestern Athletic Conference,0.5,1.7,19,76.666666667,198.777777778,3.105263
+2463,Cal State Northridge Matadors,Big West Conference,0.5882353,1.6,17,76.529411765,194.705882353,2.941176
+104,Boston University Terriers,Patriot League,0.5,1.6,16,77.875,204.375,2.562500
+219,Pennsylvania Quakers,Ivy League,0.6,1.5,19,78.368421053,212.368421053,2.526316
+2097,Campbell Fighting Camels,Coastal Athletic Association,0.47058824,1.5,14,77.571428571,205.714285714,3.000000
+2539,San Francisco Dons,West Coast Conference,0.5151515,1.5,15,77.8,210.666666667,2.800000
+2504,Prairie View A&M Panthers,Southwestern Athletic Conference,0.5135135,1.4,15,77.066666667,206.866666667,3.466667
+236,Chattanooga Mocs,Southern Conference,0.40625,1.4,17,76.588235294,196.352941176,2.647059
+2623,Missouri State Bears,Conference USA,0.47058824,1.4,14,77.714285714,208.785714286,2.571429
+2239,Cal State Fullerton Titans,Big West Conference,0.5294118,1.3,17,75.823529412,195.705882353,2.176471
+2507,Providence Friars,Big East Conference,0.45454547,1.3,15,77.733333333,213.133333333,2.600000
+290,Georgia Southern Eagles,Sun Belt Conference,0.5675676,1.2,17,76.941176471,196.470588235,2.470588
+2717,Western Carolina Catamounts,Southern Conference,0.48387095,1.2,16,77,194.625,2.250000
+2627,Tarleton State Texans,Western Athletic Conference,0.4375,1.1,19,75.578947368,196.052631579,2.368421
+77,Northwestern Wildcats,Big Ten Conference,0.44117647,1.1,15,77.866666667,199.666666667,2.333333
+2870,Purdue Fort Wayne Mastodons,Horizon League,0.53125,1,15,76.8,199.444444444,2.266667
+526,Florida Gulf Coast Eagles,ASUN Conference,0.47058824,1,16,76.5,188.8125,2.375000
+135,Minnesota Golden Gophers,Big Ten Conference,0.45454547,0.9,15,77.333333333,209.333333333,2.800000
+2473,Oakland Golden Grizzlies,Horizon League,0.5,0.9,14,76.714285714,194.214285714,2.785714
+2320,Lamar Cardinals,Southland Conference,0.38709676,0.8,15,77.066666667,195.466666667,2.466667
+2572,Southern Miss Golden Eagles,Sun Belt Conference,0.54285717,0.8,18,77.722222222,208.666666667,3.055556
+2182,Drexel Dragons,Coastal Athletic Association,0.5151515,0.8,15,78.266666667,209.666666667,2.666667
+197,Oklahoma State Cowboys,Big 12 Conference,0.5714286,0.7,15,78.066666667,221.333333333,2.533333
+314,Iona Gaels,Metro Atlantic Athletic Conference,0.5625,0.7,16,77.75,205.125,2.500000
+256,James Madison Dukes,Sun Belt Conference,0.54545456,0.7,15,76.666666667,205.466666667,3.200000
+324,Coastal Carolina Chanticleers,Sun Belt Conference,0.59375,0.7,15,77.666666667,211.666666667,3.000000
+305,DePaul Blue Demons,Big East Conference,0.5,0.7,16,79,210,2.437500
+183,Syracuse Orange,Atlantic Coast Conference,0.46875,0.7,15,78.266666667,199.066666667,2.200000
+46,Georgetown Hoyas,Big East Conference,0.47058824,0.7,17,78.058823529,217.529411765,2.588235
+30,USC Trojans,Big Ten Conference,0.5625,0.7,16,78.4375,203.1875,2.875000
+2439,UNLV Rebels,Mountain West Conference,0.51428574,0.6,15,77.266666667,201.666666667,2.400000
+2908,South Carolina Upstate Spartans,Big South Conference,0.40625,0.6,14,76.571428571,194.571428571,2.785714
+2413,Morehead State Eagles,Ohio Valley Conference,0.6060606,0.6,15,77,200.333333333,2.333333
+2916,Incarnate Word Cardinals,Southland Conference,0.38709676,0.6,15,76.714285714,199.214285714,3.066667
+2619,Stony Brook Seawolves,Coastal Athletic Association,0.53125,0.5,15,77.866666667,199.6,2.333333
+2674,Valparaiso Beacons,Missouri Valley Conference,0.54545456,0.5,17,77.176470588,208.823529412,2.294118
+2427,UNC Asheville Bulldogs,Big South Conference,0.46875,0.5,16,77.75,199.5625,2.562500
+38,Colorado Buffaloes,Big 12 Conference,0.5151515,0.4,15,79.6,209.933333333,1.733333
+225,Brown Bears,Ivy League,0.33333334,0.3,15,77.533333333,202.8,2.400000
+2181,Drake Bulldogs,Missouri Valley Conference,0.4117647,0.3,13,77.461538462,201.923076923,2.384615
+2506,Presbyterian Blue Hose,Big South Conference,0.45454547,0.2,13,77,197.307692308,2.000000
+2755,Grambling Tigers,Southwestern Athletic Conference,0.42424244,0.2,14,78.428571429,203.230769231,3.428571
+2210,Elon Phoenix,Coastal Athletic Association,0.4375,0.2,16,77.1875,205.875,2.500000
+2739,Green Bay Phoenix,Horizon League,0.54545456,0,16,77,175,2.375000
+278,Fresno State Bulldogs,Mountain West Conference,0.40625,0,15,77.933333333,202,1.800000
+156,Creighton Bluejays,Big East Conference,0.47058824,0,16,79.375,215.3125,2.437500
+2172,Denver Pioneers,Summit League,0.46875,0,15,77.133333333,201,2.933333
+2174,Detroit Mercy Titans,Horizon League,0.53125,-0.1,14,77.714285714,206.785714286,2.142857
+145,Ole Miss Rebels,Southeastern Conference,0.42857143,-0.2,16,77.375,203.4375,2.687500
+2330,Le Moyne Dolphins,Northeast Conference,0.46875,-0.2,15,76.666666667,192.333333333,2.600000
+294,Jacksonville Dolphins,ASUN Conference,0.375,-0.3,17,77.058823529,200,2.352941
+2681,Wagner Seahawks,Northeast Conference,0.4516129,-0.4,13,76.461538462,203.461538462,2.846154
+2010,Alabama A&M Bulldogs,Southwestern Athletic Conference,0.54545456,-0.4,16,77.6875,205,3.000000
+2437,Omaha Mavericks,Summit League,0.4848485,-0.4,17,77.411764706,202.875,3.312500
+242,Rice Owls,American Conference,0.41935483,-0.6,17,76.823529412,199.705882353,2.941176
+269,Marquette Golden Eagles,Big East Conference,0.375,-0.6,17,77.941176471,207.647058824,2.176471
+233,South Dakota Coyotes,Summit League,0.5,-0.6,19,77,209.428571429,2.315789
+195,Ohio Bobcats,Mid-American Conference,0.46875,-0.7,15,77.466666667,202.733333333,2.400000
+155,North Dakota Fighting Hawks,Summit League,0.51428574,-0.7,25,78.833333333,211.666666667,2.166667
+87,Notre Dame Fighting Irish,Atlantic Coast Conference,0.41935483,-0.8,21,78.15,218.235294118,2.125000
+2261,Hampton Pirates,Coastal Athletic Association,0.40625,-0.9,15,76.733333333,200.785714286,2.733333
+331,Eastern Washington Eagles,Big Sky Conference,0.42424244,-0.9,15,77.066666667,210.666666667,3.266667
+282,Indiana State Sycamores,Missouri Valley Conference,0.34375,-0.9,16,77.375,205,2.812500
+159,Dartmouth Big Green,Ivy League,0.4074074,-0.9,14,77.571428571,201.916666667,2.428571
+399,UAlbany Great Danes,America East Conference,0.34375,-0.9,16,77.9375,201.25,2.625000
+2329,Lehigh Mountain Hawks,Patriot League,0.51428574,-1.1,15,77.533333333,203.933333333,2.600000
+2429,Charlotte 49ers,American Conference,0.5,-1.1,16,79.1875,212.8125,2.687500
+2635,Tennessee Tech Golden Eagles,Ohio Valley Conference,0.41935483,-1.2,16,76.4375,198.5625,2.750000
+221,Pittsburgh Panthers,Atlantic Coast Conference,0.3939394,-1.3,15,78.533333333,208.666666667,2.333333
+2529,Sacred Heart Pioneers,Metro Atlantic Athletic Conference,0.42424244,-1.4,16,77.1875,198.466666667,2.250000
+2349,UMass Lowell River Hawks,America East Conference,0.45454547,-1.4,13,77.538461538,207.769230769,2.307692
+2441,New Haven Chargers,Northeast Conference,0.4516129,-1.4,21,75.904761905,195,1.904762
+265,Washington State Cougars,West Coast Conference,0.375,-1.4,14,77.571428571,212.5,2.428571
+2065,Bethune-Cookman Wildcats,Southwestern Athletic Conference,0.53125,-1.5,16,77.1875,199.6875,3.312500
+2198,Eastern Kentucky Colonels,ASUN Conference,0.34375,-1.5,13,76.461538462,192.461538462,2.384615
+235,Memphis Tigers,American Conference,0.40625,-1.5,15,79.266666667,202.733333333,3.133333
+2579,South Carolina Gamecocks,Southeastern Conference,0.40625,-1.6,15,78.266666667,215.2,2.666667
+295,Old Dominion Monarchs,Sun Belt Conference,0.36363637,-1.7,16,77.5625,206.5625,2.750000
+91,Bellarmine Knights,ASUN Conference,0.40625,-1.7,16,77.5,191.5625,2.187500
+304,Idaho State Bengals,Big Sky Conference,0.3939394,-1.7,15,77.733333333,203.333333333,2.866667
+2352,Loyola Maryland Greyhounds,Patriot League,0.375,-1.9,15,77.6,206.266666667,2.400000
+2430,UNC Greensboro Spartans,Southern Conference,0.44117647,-1.9,15,76,201.666666667,2.600000
+116,Mount St. Mary's Mountaineers,Metro Atlantic Athletic Conference,0.46875,-2,16,76.75,198.625,2.687500
+9,Arizona State Sun Devils,Big 12 Conference,0.5151515,-2,16,78.5625,197.25,2.500000
+2050,Ball State Cardinals,Mid-American Conference,0.38709676,-2,15,76.666666667,204.466666667,2.533333
+2000,Abilene Christian Wildcats,Western Athletic Conference,0.42424244,-2.1,13,76.307692308,205.833333333,2.692308
+2752,Xavier Musketeers,Big East Conference,0.45454547,-2.2,16,78.25,215.5625,2.875000
+284,Stonehill Skyhawks,Northeast Conference,0.36363637,-2.2,16,77.0625,195.625,3.000000
+2306,Kansas State Wildcats,Big 12 Conference,0.375,-2.2,14,78.357142857,211.357142857,2.857143
+2447,Nicholls Colonels,Southland Conference,0.42424244,-2.5,14,77.571428571,191.785714286,3.428571
+2448,North Carolina A&T Aggies,Coastal Athletic Association,0.36666667,-2.7,16,77.9375,201.375,2.437500
+2199,Eastern Michigan Eagles,Mid-American Conference,0.32258064,-2.8,14,77.214285714,203,3.000000
+299,Long Beach State Beach,Big West Conference,0.3125,-2.9,15,77.2,201.875,2.400000
+2415,Morgan State Bears,Mid-Eastern Athletic Conference,0.46666667,-2.9,15,78.133333333,206.666666667,3.200000
+13,Cal Poly Mustangs,Big West Conference,0.42424244,-2.9,16,77.875,203.125,2.125000
+2698,West Georgia Wolves,ASUN Conference,0.46875,-3,16,76.4375,194.875,2.375000
+2640,Texas Southern Tigers,Southwestern Athletic Conference,0.4,-3,17,78,208.823529412,3.411765
+161,Fairleigh Dickinson Knights,Northeast Conference,0.34375,-3,16,77.1875,193.8125,2.500000
+2655,Tulane Green Wave,American Conference,0.54545456,-3.1,15,77.733333333,200,2.600000
+2638,UTEP Miners,Conference USA,0.3548387,-3.1,14,76.785714286,200.714285714,2.928571
+2483,Oregon Ducks,Big Ten Conference,0.375,-3.1,17,78.647058824,199.1,2.823529
+204,Oregon State Beavers,West Coast Conference,0.5151515,-3.1,15,79.666666667,209.466666667,2.533333
+2443,New Orleans Privateers,Southland Conference,0.45454547,-3.2,16,78.5625,201.6875,2.500000
+253,Southern Utah Thunderbirds,Western Athletic Conference,0.3125,-3.2,16,77.75,208.428571429,2.812500
+2197,Eastern Illinois Panthers,Ohio Valley Conference,0.3939394,-3.2,14,76.428571429,192.5,2.785714
+103,Boston College Eagles,Atlantic Coast Conference,0.3548387,-3.3,16,77.5625,203.4375,2.125000
+270,Milwaukee Panthers,Horizon League,0.375,-3.3,16,77.25,206.625,2.750000
+301,San Diego Toreros,West Coast Conference,0.36363637,-3.4,20,76.7,203.65,2.550000
+163,Princeton Tigers,Ivy League,0.31034482,-3.4,17,77.176470588,201.117647059,2.000000
+2117,Central Michigan Chippewas,Mid-American Conference,0.32258064,-3.5,15,77.133333333,207.333333333,2.733333
+2031,Little Rock Trojans,Ohio Valley Conference,0.375,-3.6,15,77.133333333,190.933333333,2.733333
+59,Georgia Tech Yellow Jackets,Atlantic Coast Conference,0.3548387,-3.6,14,78.214285714,210.428571429,2.071429
+2428,North Carolina Central Eagles,Mid-Eastern Athletic Conference,0.4375,-3.7,15,75.933333333,189.4,3.266667
+2029,Arkansas-Pine Bluff Golden Lions,Southwestern Athletic Conference,0.40625,-3.7,15,77.333333333,209.333333333,3.133333
+2501,Portland Pilots,West Coast Conference,0.44117647,-4.1,16,77.6875,202.5,2.250000
+2011,Alabama State Hornets,Southwestern Athletic Conference,0.3125,-4.1,16,77.1875,198.75,3.000000
+2466,Northwestern State Demons,Southland Conference,0.3125,-4.1,14,76.357142857,199.571428571,2.857143
+50,Florida A&M Rattlers,Southwestern Athletic Conference,0.48387095,-4.2,15,77.333333333,203.666666667,2.866667
+344,Mississippi State Bulldogs,Southeastern Conference,0.40625,-4.2,15,78.866666667,221.666666667,2.666667
+198,Oral Roberts Golden Eagles,Summit League,0.3030303,-4.2,14,76.714285714,202.5,2.357143
+16,Sacramento State Hornets,Big Sky Conference,0.32258064,-4.3,14,77.428571429,201.285714286,2.428571
+2837,East Texas A&M Lions,Southland Conference,0.34375,-4.3,16,76.3125,191.1875,3.125000
+2247,Georgia State Panthers,Sun Belt Conference,0.3125,-4.3,15,78.266666667,206.666666667,2.333333
+2711,Western Michigan Broncos,Mid-American Conference,0.32258064,-4.7,15,77.6,198.333333333,2.200000
+254,Utah Utes,Big 12 Conference,0.3125,-4.8,15,78.066666667,213.933333333,2.400000
+164,Rutgers Scarlet Knights,Big Ten Conference,0.4117647,-4.8,15,77.933333333,205.333333333,1.933333
+85,IU Indianapolis Jaguars,Horizon League,0.21875,-4.8,15,76.466666667,192.333333333,2.600000
+2363,Manhattan Jaspers,Metro Atlantic Athletic Conference,0.375,-4.9,19,75.947368421,195.363636364,2.210526
+322,Lafayette Leopards,Patriot League,0.34375,-5,19,77.222222222,203.055555556,2.000000
+349,Army Black Knights,Patriot League,0.34375,-5,18,75.611111111,195.388888889,2.222222
+27,UC Riverside Highlanders,Big West Conference,0.3125,-5,15,77.8,213.222222222,2.466667
+107,Holy Cross Crusaders,Patriot League,0.33333334,-5.1,16,77.25,209.5,2.375000
+2464,Northern Arizona Lumberjacks,Big Sky Conference,0.3125,-5.1,14,76.214285714,195.785714286,2.428571
+2277,Houston Christian Huskies,Southland Conference,0.375,-5.1,15,76.733333333,203.133333333,3.466667
+160,New Hampshire Wildcats,America East Conference,0.3,-5.4,14,77.071428571,196.428571429,2.142857
+2545,SE Louisiana Lions,Southland Conference,0.29032257,-5.5,15,76.133333333,199.818181818,2.466667
+213,Penn State Nittany Lions,Big Ten Conference,0.375,-5.6,13,79.384615385,220.384615385,1.692308
+311,Maine Black Bears,America East Conference,0.25,-5.9,16,77.4375,201.1875,2.687500
+151,East Carolina Pirates,American Conference,0.3548387,-6,17,77.176470588,207.529411765,2.588235
+56,Stetson Hatters,ASUN Conference,0.36363637,-6,15,76.733333333,190,2.200000
+111,Northeastern Huskies,Coastal Athletic Association,0.22580644,-6.1,14,78.142857143,203.714285714,2.214286
+325,Cleveland State Vikings,Horizon League,0.33333334,-6.1,15,76.866666667,201.133333333,3.000000
+2885,NJIT Highlanders,America East Conference,0.4848485,-6.2,15,77.266666667,201.8,2.066667
+48,Delaware Blue Hens,Conference USA,0.32258064,-6.3,15,77.8,200.533333333,2.866667
+2379,Maryland Eastern Shore Hawks,Mid-Eastern Athletic Conference,0.28125,-6.4,15,77.4,200.333333333,3.066667
+23,San José State Spartans,Mountain West Conference,0.27272728,-6.5,16,77.4375,205.9375,2.062500
+120,Maryland Terrapins,Big Ten Conference,0.36363637,-6.9,16,77.375,200.3125,2.375000
+309,Louisiana Ragin' Cajuns,Sun Belt Conference,0.33333334,-7,18,77.388888889,196.111111111,2.444444
+2325,La Salle Explorers,Atlantic 10 Conference,0.28125,-7,17,78,203.823529412,2.941176
+2066,Binghamton Bearcats,America East Conference,0.2580645,-7,14,77.071428571,196.785714286,2.785714
+2643,The Citadel Bulldogs,Southern Conference,0.33333334,-7.1,18,76.277777778,201.388888889,2.333333
+2492,Pepperdine Waves,West Coast Conference,0.28125,-7.3,16,78.125,207.8125,2.000000
+315,Niagara Purple Eagles,Metro Atlantic Athletic Conference,0.26666668,-7.3,13,76.461538462,192,2.846154
+2099,Canisius Golden Griffins,Metro Atlantic Athletic Conference,0.32258064,-7.6,16,76.3125,195.9375,2.437500
+2803,Bryant Bulldogs,America East Conference,0.29032257,-7.7,19,76.947368421,194.882352941,2.052632
+2678,VMI Keydets,Southern Conference,0.1875,-8,15,76.666666667,201.6,2.266667
+2453,North Alabama Lions,ASUN Conference,0.3,-8.2,14,78.357142857,212.142857143,2.642857
+2459,Northern Illinois Huskies,Mid-American Conference,0.3,-8.3,16,76.9375,190.538461538,1.812500
+2454,North Florida Ospreys,ASUN Conference,0.21875,-8.6,14,77.071428571,191.5,2.285714
+2083,Bucknell Bison,Patriot League,0.3030303,-8.9,15,76.6,199.866666667,2.666667
+2350,Loyola Chicago Ramblers,Atlantic 10 Conference,0.27272728,-9,16,77.3125,200.3125,2.937500
+2934,Cal State Bakersfield Roadrunners,Big West Conference,0.25,-9.1,14,77.071428571,195.714285714,2.928571
+2169,Delaware State Hornets,Mid-Eastern Athletic Conference,0.2580645,-9.3,16,76.8,191,3.062500
+2598,Saint Francis Red Flash,Northeast Conference,0.22580644,-9.5,18,76.277777778,191.277777778,2.611111
+339,Evansville Purple Aces,Missouri Valley Conference,0.21875,-9.5,15,78.133333333,199.166666667,2.666667
+2130,Chicago State Cougars,Northeast Conference,0.21875,-10.3,17,76.176470588,194.117647059,3.294118
+2636,UTSA Roadrunners,American Conference,0.16666667,-11.2,15,77.933333333,203.4,2.933333
+2433,UL Monroe Warhawks,Sun Belt Conference,0.125,-11.5,15,77.8,195.666666667,2.200000
+2569,South Carolina State Bulldogs,Mid-Eastern Athletic Conference,0.3125,-11.7,14,78.428571429,198.928571429,2.571429
+2710,Western Illinois Leathernecks,Ohio Valley Conference,0.16129032,-11.9,15,77.333333333,209.533333333,2.933333
+2520,Rider Broncs,Metro Atlantic Athletic Conference,0.13793103,-12.6,15,77.4,200.357142857,2.533333
+2016,Alcorn State Braves,Southwestern Athletic Conference,0.28125,-13.3,13,76.692307692,196.076923077,3.076923
+2296,Jackson State Tigers,Southwestern Athletic Conference,0.36363637,-13.6,16,76.875,191.6875,2.437500
+140,Kansas City Roos,Summit League,0.12903225,-14.6,15,77.466666667,204.375,3.133333
+2154,Coppin State Eagles,Mid-Eastern Athletic Conference,0.22580644,-14.9,17,78.176470588,204.411764706,3.117647
+2241,Gardner-Webb Runnin' Bulldogs,Big South Conference,0.121212125,-17.4,17,75.941176471,197.142857143,2.588235
+2005,Air Force Falcons,Mountain West Conference,0.09375,-18.4,17,78.117647059,210,1.705882
+2400,Mississippi Valley State Delta Devils,Southwestern Athletic Conference,0.09090909,-18.8,16,77.0625,203,3.187500
